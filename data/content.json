@@ -1,0 +1,265 @@
+[
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "BMW MINI STAYOPEN",
+    "category": {
+	"web": "W",
+	"mobile": "M",
+	"operate": "O"
+	},    
+    "thumb": "images/thumb_mini_stayopen.jpg",   
+    "date": "2016",
+    "mnum": "6",
+    "des": "2016 | 프로모션 서비스 구축 및 유지보수 | BMW MINI | Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_bh_logo.png",
+    "titlename": "CHEONG WA DAE",
+    "category": {
+	"web": "W",
+	"mobile": "M",
+	"operate": ""
+	},    
+    "thumb": "images/thumb_bh.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016 | 웹사이트, 블로그, 어린이 웹사이트구축 및 유지보수 | 청와대비서실 | Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_bh_logo.png",
+    "titlename": "청년희망재단",
+    "category": {
+	"web": "W",
+	"mobile": "M",
+	"operate": "O"
+	},    
+    "thumb": "images/thumb_young.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016 | 웹사이트, 블로그 구축 및 유지보수 | 청년희망재단 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "BMW MINI",
+    "category": {
+	"operate": "O"
+	},    
+    "thumb": "images/thumb_mini.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016 | 유지보수 | BMW MINI | Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "KBS 8.15 나는 대한민국",
+    "category": {
+	"web": "W",
+	"mobile": "M",
+	"hybrid": "H",
+	"operate": "O"
+	},    
+    "thumb": "images/thumb_815.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 | 프로모션 사이트 구축 및 유지보수 | 청와대비서실 | Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "KBS 역사포털",
+    "category": {
+	"web": "W",
+	"mobile": "M",
+	"design": "D"
+	},    
+    "thumb": "images/thumb_history.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 | 사이트 구축 | KBS | Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "JOYCAR",
+    "category": {
+	"web": "W",
+	"mobile": "M",
+	"hybrid": "H"
+	},    
+    "thumb": "images/thumb_joycar.jpg",   
+    "date": "2015",
+    "mnum": "6",
+    "des": "2015 | 웹사이트 구축 | 롱스푼 | Web, Mobile Web, Hybrid"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "VOICE MIRROR",
+    "category": {
+	"design": "D"
+	},    
+    "thumb": "images/thumb_vm.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2014 | IOS 서브디자인 | 소망화장품 | Design"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "아홉시반 주립대학",
+    "category": {
+	"web": "web",
+	"operate": "operate"
+	},    
+    "thumb": "images/thumb_ahsv.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2014 | 사이트 구축 및 유지보수 | 보해 | Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "조앤신 성형외과",
+    "category": {
+	"web": "web",
+	"mobile": "mobile",
+	"operate": "operate"
+	},    
+    "thumb": "images/thumb_jns.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016 | 사이트 구축 및 유지보수 | 청와대비서실 | Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "선수끼리 차차차",
+    "category": {
+	"web": "web",
+	"mobile": "mobile",
+	"hybrid": "hybrid"
+	},    
+    "thumb": "images/thumb_suncha.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2016 | 사이트 구축 및 유지보수 | 롱스푼 | Web, Mobile Web, Hybrid"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "듀얼폼",
+    "category": {
+	"web": "web",
+	"mobile": "mobile",
+	"design": "design",
+	"operate": "operate"
+	},    
+    "thumb": "images/thumb_df.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2016 | 쇼핑몰 리뉴얼 및 유지보수 | 이오즈스킨 | Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "일타삼피 이벤트",
+    "category": {
+	"mobile": "mobile"
+	},    
+    "thumb": "images/thumb_btv.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "단말정보 관리시스템",
+    "category": {
+	"web": "web"
+	},    
+    "thumb": "images/thumb_ktp.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "BMW MINI AS",
+    "category": {
+	"web": "web",
+	"mobile": "mobile",
+	"operate": "operate"
+	},    
+    "thumb": "images/thumb_mini_acc.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "BMW MINI DELIVERY",
+    "category": {
+	"web": "web",
+	"mobile": "mobile",
+	"operate": "operate"
+	},    
+    "thumb": "images/thumb_mini_delivery.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "BMW MINI TESTDRIVE",
+    "category": {
+	"web": "web",
+	"mobile": "mobile",
+	"operate": "operate"
+	},    
+    "thumb": "images/thumb_mini_drive.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "SAT",
+    "category": {
+	"web": "web",
+	"design": "design"
+	},    
+    "thumb": "images/thumb_sat.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "SWING",
+    "category": {
+	"web": "web",
+	"mobile": "mobile"
+	},    
+    "thumb": "images/thumb_swing.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "KOOPJA",
+    "category": {
+	"web": "web",
+	"mobile": "mobile",
+	"design": "design"
+	},    
+    "thumb": "images/thumb_koopja.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  },
+  {
+    "logoImage": "images/gallery_mini_logo.png",
+    "titlename": "서대문Branch",
+    "category": {
+	"web": "web",
+	"design": "design"
+	},    
+    "thumb": "images/thumb_hw.jpg",   
+    "date": "2015 ~ 2016",
+    "mnum": "6",
+    "des": "2015 ~2016  |  웹사이트, 블로그, 어린이 웹사이트, 유지보수  |  청와대비서실 |  Web, Mobile Web"
+  }
+]
