@@ -350,14 +350,30 @@ function mainInit(){
 								*/
 							};							
 						}else if(this._data == 1){
-							/*
+							
 							if(item[cur]._moveFlag){
-								target.find('.img_group p').each(function(){
-									TweenMax.to($(this),2,{y:0,delay:0.5,ease:Back.easeOut});
+								target.find('.about_word li').each(function(){
+									if($(this).index() % 3 == 0){
+										TweenMax.to($(this),1,{alpha:1,ease:Quad.easeOut})
+									} else if($(this).index() % 3 == 1){
+										TweenMax.to($(this),1,{alpha:1,delay:0.5, ease:Quad.easeOut})
+									} else if($(this).index() % 3 == 2){
+										TweenMax.to($(this),1,{alpha:1,delay:1,ease:Quad.easeOut,onComplete:function(){
+											target.find('.about_word li:nth-child(3n+1)').addClass('swing-1');
+											target.find('.about_word li:nth-child(3n+2)').addClass('swing-2');								
+											target.find('.about_word li:nth-child(3n)').addClass('swing-3');
+										}})
+									}	
+								})
+		
 
-								});
+
+
+								//target.find('.about_word li:nth-child(3n+1)').addClass('swing-1');
+								//target.find('.about_word li:nth-child(3n+2)').addClass('swing-2');								
+								//target.find('.about_word li:nth-child(3n)').addClass('swing-3');
 							};
-							*/
+							
 						}else if(this._data == 2){
 							/*
 							if(item[cur]._moveFlag){
